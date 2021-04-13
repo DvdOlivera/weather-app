@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weatherappcreate/static/css/main.5d7a09c2.chunk.css",
+    "main.css": "/weatherappcreate/static/css/main.8e14ca9a.chunk.css",
     "main.js": "/weatherappcreate/static/js/main.8a523291.chunk.js",
     "main.js.map": "/weatherappcreate/static/js/main.8a523291.chunk.js.map",
     "runtime-main.js": "/weatherappcreate/static/js/runtime-main.63ea9047.js",
@@ -10,14 +10,14 @@
     "static/js/3.5d1fae89.chunk.js": "/weatherappcreate/static/js/3.5d1fae89.chunk.js",
     "static/js/3.5d1fae89.chunk.js.map": "/weatherappcreate/static/js/3.5d1fae89.chunk.js.map",
     "index.html": "/weatherappcreate/index.html",
-    "static/css/main.5d7a09c2.chunk.css.map": "/weatherappcreate/static/css/main.5d7a09c2.chunk.css.map",
+    "static/css/main.8e14ca9a.chunk.css.map": "/weatherappcreate/static/css/main.8e14ca9a.chunk.css.map",
     "static/js/2.ecba355f.chunk.js.LICENSE.txt": "/weatherappcreate/static/js/2.ecba355f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/weatherappcreate/static/media/warm-bg.712152f6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.63ea9047.js",
     "static/js/2.ecba355f.chunk.js",
-    "static/css/main.5d7a09c2.chunk.css",
+    "static/css/main.8e14ca9a.chunk.css",
     "static/js/main.8a523291.chunk.js"
   ]
 }
